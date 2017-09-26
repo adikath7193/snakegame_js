@@ -1,5 +1,8 @@
 How to use :
-Click on the snakegame.html file to start playing.
+Download the git.
+Click on the snakegame.html file.
+Click on the start button to start playing.
+Use the arrow keys to change the direction.
 
 Next Steps:
 
